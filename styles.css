@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  .note{color: green;}
+  #alert{color: red;}
+
+  body {
+    background-color: powderblue;
+    border: 5px solid;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 25px;
+  }
+ nav a {color:pink;}
+  a:hover{text-decoration:underline;
+  font-size: 25px;}
+  .bg1 {
+    background-color: pink;
+  }
+
+ :root {
+  --brand: #1f7a5c;
+  --space: 1rem;
+ }
+
+ .btn {
+  background: var(--brand);
+  padding: var(--space);
+ }
